@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="Prostate Cancer PSM Risk Calculator", page_icon="🩺", layout="centered")
 
 # --- CUSTOM COLOR HEADER ---
-st.markdown("<h1 style='text-align: center; color: #1E3A8A;'>The PSM Risk Calculator</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #1E3A8A;'>Prostate Cancer Positive Surgical Margin Risk Calculator</h1>", unsafe_allow_html=True)
 
 # Use an info box for a colorful, professional introduction
 st.info("""
